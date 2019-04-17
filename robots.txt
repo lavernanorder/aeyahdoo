@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahjolaaph.broccoli.build/sitemap.xml
